@@ -1,0 +1,78 @@
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FlatUI.dll
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FlatUI.pdb
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Grafuri.resources
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.xml
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Leonardo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.DropdownButton.resources
+C:\Users\Leonardo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Graph.dll
+C:\Users\Leonardo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Graph.pdb
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Bunifu_UI_v1.52.dll
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FlatUI.dll
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FlatUI.pdb
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Graph.pdb
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.xml
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Grafuri.resources
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+E:\backup aplicatie\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Meniu.resources
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Grafuri.resources
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FlatUI.dll
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FlatUI.pdb
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Graph.pdb
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.xml
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Login.resources
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Register.resources
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Intrebare.resources
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Leonardo\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\bin\Debug\FlatUI.pdb
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\bin\Debug\Graph.pdb
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\bin\Debug\MySql.Data.xml
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Grafuri.resources
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Login.resources
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Register.resources
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Intrebare.resources
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Radu\Desktop\WindowsFormsApplication4_Beta2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
